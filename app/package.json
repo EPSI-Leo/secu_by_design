@@ -1,0 +1,15 @@
+{
+    "name": "vault-demo-app",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.19.2",
+      "mariadb": "^3.4.2",
+      "node-vault": "^0.10.5"  
+    }
+  }
+  
